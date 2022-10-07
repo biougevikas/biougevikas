@@ -25,10 +25,10 @@ A Student come developer with 4 years of freelancing and 18 months of internship
 
 ### **Projects**
 * Worksheet Manager Application  
-	```Flutter, Dart, Android, SQLite```   
+	```Flutter```, ```Dart```, ```Android```, ```SQLite```   
 	A task management app to help you organize and manage your day-to-day. You can set reminders for your task to increase your productivity and focus on what matters.
 * Firewall Service for personal home network  
-	```C, Cisco Nyra, Cisco Firepower```  
+	```C```, ```Cisco Nyra```, ```Cisco Firepower```  
 	A Security focused OS for Home Network with focus on proxy and modulated DNS. A fork of OG Cisco IOS.
 
 ---
