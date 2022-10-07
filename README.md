@@ -8,7 +8,7 @@ Student, UG CSE
 Mobile No. : 
 Email : biougevikas@gmail.com
 
-A Student cum developer with 4 years of freelancing and 18 months of internship Experience.
+A Student come developer with 4 years of freelancing and 18 months of internship Experience.
 
 ---
 
@@ -24,23 +24,19 @@ A Student cum developer with 4 years of freelancing and 18 months of internship 
 ---
 
 ### **Projects**
-#### 2018
-* Google Indoors  
-	```Firebase, Node.js, React, WebSocket, Dart, Flutter```   
-	An Apple Insight inspired application which maps an office in un
 * Worksheet Manager Application  
 	```Flutter, Dart, Android, SQLite```   
 	A task management app to help you organize and manage your day-to-day. You can set reminders for your task to increase your productivity and focus on what matters.
 * Firewall Service for personal home network  
 	```C, Cisco Nyra, Cisco Firepower```  
-	A Security focused OS for Home Network with focus on proxy and modulated DNS.
+	A Security focused OS for Home Network with focus on proxy and modulated DNS. A fork of OG Cisco IOS.
 
 ---
 
 ### **Experience**
 #### May 2017
 >  **Google Analytics**   
-> A Demi-Intern responsible for Code Simplification and Documentation
+> A Highschool-Intern responsible for Code Translation and Documentation
 
 ### **Certifications**
 * Redhat Enterprise Server
